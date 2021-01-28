@@ -2,5 +2,4 @@
 
 The Ino file is the arduino file. 
 The hardware connections are given here. 
-![Alt text](HardwareConnection.png?raw=true "Title")
-![](HardwareConnection.png) 
+![Alt text](HardwareConnection.png?raw=true "Title") 
